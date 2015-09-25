@@ -5,6 +5,6 @@ Select the image area (drag and resize) to cut and then send the data to create 
 <li>· Supported image types: jpg, jpeg, png and gif</li>
 <li>· Requeriments: PHP 5.x and GD Graphics Library</li>
 
-<img src="https://github.com/ManuDavila/crop-image-plugin/screenshot.jpg" />
+<img src="https://github.com/ManuDavila/crop-image-plugin/blob/master/screenshot.jpg" />
 
 
