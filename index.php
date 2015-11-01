@@ -113,8 +113,10 @@
 	</head>
 	<body>
 		<div class="container">
-		<h1>Crop Image with PHP and jQuery UI</h1>
-		<blockquote>Select the image area (drag and resize) to cut and then send the data to create the new cropped image.</blockquote>
+		<h1>Crop Image Plugin</h1>
+		<p>This class can crop an image to a given position and size.</p>
+		<p>It can take a given image file in GIF, JPEG or PNG format and creates a new image that is cropped from the original at given coordinates, width and height.</p>
+		<p>The package uses a jQuery plugin to send to the server the image and the crop coordinates via AJAX.</p>
 		<div class="row">
 		<div class="col-md-5">
 		<div class="text-info">Supported image types: jpg, jpeg, png and gif</div>
